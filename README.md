@@ -109,7 +109,7 @@ jobs:
 
 **In action**:
 
-![Issue Bot Image](./issue-bot.png)
+![Issue Bot Image](./img/issue-bot.png)
 
 ## Inputs
 
